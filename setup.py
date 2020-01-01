@@ -6,7 +6,7 @@ skein_hash_module = Extension('skein_hash',
                                include_dirs=['.', './shacommon'])
 
 setup (name = 'skein_hash',
-       version = '1.0',
+       version = '1.1',
        package_data = {
         '': ['*.h']
         },

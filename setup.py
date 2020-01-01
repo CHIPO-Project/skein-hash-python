@@ -1,3 +1,4 @@
+import setuptools
 from distutils.core import setup, Extension
 
 skein_hash_module = Extension('skein_hash',
